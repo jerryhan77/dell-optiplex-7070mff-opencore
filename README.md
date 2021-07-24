@@ -52,6 +52,10 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 * Disable CFG lock: 
 ***setup_var 0x5BE 0x00***
 
+## Point to Note
+
+*   [x] Please add your own SystemSerialNumber / SystemUUID / MLB with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
 ## Updates
 
 -   **2021/7/23**: First install with OpenCore 0.7.0
