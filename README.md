@@ -46,7 +46,7 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 * Virtualization Support → VT for Direct I/O: ***uncheck***
 * Security → PTT Security/PTT On: ***Disabled***
 
-## BIOS Settings via GRUB (Optional)
+## BIOS Settings via modGRUBShell.efi
 * Set Pre-Allocated DVMT to 64M: 
 ***setup_var 0x8DC 0x02***
 * Disable CFG lock: 
