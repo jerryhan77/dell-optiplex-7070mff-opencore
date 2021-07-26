@@ -6,8 +6,9 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
 ![Neofetch](./media/neofetch.png)
 
-## Tutorials
+## Credits
 
+-   [bfrorum10/DELL-OptiPlex-3070-Big-Sur-11.xx-](https://github.com/bfrorum10/DELL-OptiPlex-3070-Big-Sur-11.xx-/releases/tag/v5.0)
 -   [W-MS/Dell-8080-mff-hackintosh](https://github.com/W-MS/Dell-7070-mff-hackintosh)
 -   [cyrusauyeungc/Dell-Optiplex-7070m-Hackintosh-EFI](https://github.com/cyrusauyeungc/Dell-Optiplex-7070m-Hackintosh-EFI)
 
