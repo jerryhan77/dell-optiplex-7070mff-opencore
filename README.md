@@ -58,4 +58,4 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
 ## Updates
 
--   **2021/7/23**: First install with OpenCore 0.7.0
+-   **2021/7/23**: First install with OpenCore 0.6.5
