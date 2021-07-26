@@ -2,6 +2,8 @@
 
 OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
+![Neofetch](./media/about.png)
+
 ![Neofetch](./media/neofetch.png)
 
 ## Tutorials
@@ -59,3 +61,4 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 ## Updates
 
 -   **2021/7/23**: First install with OpenCore 0.6.5
+-   **2021/7/26**: Update OpenCore 0.7.1 and add Intel Wifi/BT support
