@@ -28,7 +28,6 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 ### :white_check_mark: Working
 
 -   HWP
--   Sleep
 -   iGPU with HiDPI
 -   Ethernet
 -   WiFi
@@ -38,6 +37,7 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
 ### :x: Not Working
 
+-   Sleep
 -   DRM (Only dGPU could fix this)
 
 ## BIOS Settings
