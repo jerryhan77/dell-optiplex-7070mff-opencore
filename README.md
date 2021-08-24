@@ -14,14 +14,14 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
 ## Hardware
 
--   CPU: Intel Comet Lake i7-9700T
+-   CPU: Intel Comet Lake i7-8700T
 -   Chipset: Intel Q370
 -   Memory: 8G DDR4 2666 \* 2
 -   iGPU: UHD 630
--   SSD: Intel SATA SSD 120G
+-   SSD: Intel NVME SSD 512G
 -   Sound: ALC255/ALC3234
 -   Ethernet: Intel I219-LM
--   Wireless / BT: Intel Wireless-AC 9560
+-   Wireless / BT: BCM943224PCIEBT2
 
 ## Status
 
@@ -34,10 +34,10 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 -   Bluetooth
 -   Sound
 -   DP/HDMI Audio
+-   Sleep
 
 ### :x: Not Working
 
--   Sleep
 -   DRM (Only dGPU could fix this)
 
 ## BIOS Settings
@@ -61,5 +61,4 @@ OpenCore for macOS Big Sur (11.5) on Dell OptiPlex 7070 MFF
 
 ## Updates
 
--   **2021/7/23**: First install with OpenCore 0.6.5
--   **2021/7/26**: Update OpenCore 0.7.1 and add Intel Wifi/BT support
+-   **2021/8/23**: First install with OpenCore 0.7.0
